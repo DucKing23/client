@@ -5,7 +5,7 @@ const RegisterPage = () => {
   return (
     <div>
       <ModeToggle />
-      Register Page
+      Register Page aaa
     </div>
   );
 };
